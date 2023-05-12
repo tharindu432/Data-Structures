@@ -24,7 +24,6 @@ class NoDupArray {
     private long[] a;//ref to array a-declaration
     private int nEliments;//number of data items
     public NoDupArray(int max) {//constructor
-
         this.a=new long[max]; //initialization
         this.nEliments=0;
     }

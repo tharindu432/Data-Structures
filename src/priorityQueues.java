@@ -17,11 +17,6 @@ public class priorityQueues {
 
 
     }
-
-
-
-
-
 }
 
 class Patient{

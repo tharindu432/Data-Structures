@@ -27,7 +27,7 @@ class Node {
 }
 class LinkList {
     private Node head;
-    public void LinkList() {
+    public  LinkList() {
 
         head = null;
     }
